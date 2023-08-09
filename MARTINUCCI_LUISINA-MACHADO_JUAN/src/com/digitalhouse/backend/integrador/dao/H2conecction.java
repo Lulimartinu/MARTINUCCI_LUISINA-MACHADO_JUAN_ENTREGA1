@@ -8,6 +8,8 @@ public class H2conecction {
         public static Connection getConnection() throws ClassNotFoundException, SQLException {
             Class.forName("org.h2.Driver");
             return DriverManager.getConnection("jdbc:h2:~/proyectoIntegrador", "sa", "sa");
+
+            public static tuki
         }
 
 
