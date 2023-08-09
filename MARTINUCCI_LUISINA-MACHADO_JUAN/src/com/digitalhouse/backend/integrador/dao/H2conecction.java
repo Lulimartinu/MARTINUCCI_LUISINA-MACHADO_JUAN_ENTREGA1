@@ -9,7 +9,7 @@ public class H2conecction {
             Class.forName("org.h2.Driver");
             return DriverManager.getConnection("jdbc:h2:~/proyectoIntegrador", "sa", "sa");
 
-            public static tuki
+            public static tuki tuki 2 kasdklasñ,da,c,.zxmc,ñ.as mdlaksdñlkasñldkasñldkalsñd
         }
 
 
