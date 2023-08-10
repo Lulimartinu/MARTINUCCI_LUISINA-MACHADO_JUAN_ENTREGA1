@@ -1,0 +1,169 @@
+[2023-08-10 00:24:04] [ ERROR] [OdontologoDaoH2:91] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-220]
+[2023-08-10 00:30:37] [ ERROR] [OdontologoDaoH2:48] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-220]
+[2023-08-10 00:30:37] [ ERROR] [OdontologoDaoH2:48] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-220]
+[2023-08-10 00:30:37] [ ERROR] [OdontologoDaoH2:48] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-220]
+[2023-08-10 00:30:37] [ ERROR] [OdontologoDaoH2:91] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-220]
+[2023-08-10 00:31:35] [ ERROR] [OdontologoDaoH2:48] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-220]
+[2023-08-10 00:31:35] [ ERROR] [OdontologoDaoH2:48] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-220]
+[2023-08-10 00:31:35] [ ERROR] [OdontologoDaoH2:48] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+INSERT INTO ODONTOLOGOS (NUMERO_MATRICULA, NOMBRE, APELLIDO) VALUES (?, ?, ?) [42104-220]
+[2023-08-10 00:31:35] [ ERROR] [OdontologoDaoH2:91] Table "ODONTOLOGOS" not found (this database is empty); SQL statement:
+SELECT * FROM ODONTOLOGOS [42104-220]
+[2023-08-10 00:37:40] [ INFO ] [OdontologoDaoH2:44] Se ha registrado el odontologo :Odontologo 
+ID: 0
+Numero Matricula: 1432324
+Nombre: Juan
+Apellido: Machado
+[2023-08-10 00:37:40] [ INFO ] [OdontologoDaoH2:44] Se ha registrado el odontologo :Odontologo 
+ID: 0
+Numero Matricula: 37632
+Nombre: Luisina
+Apellido: Martinucci
+[2023-08-10 00:37:40] [ INFO ] [OdontologoDaoH2:44] Se ha registrado el odontologo :Odontologo 
+ID: 0
+Numero Matricula: 9283643
+Nombre: Luciana
+Apellido: Murga
+[2023-08-10 00:37:40] [ INFO ] [OdontologoDaoH2:87] Listado de todos los odontologos : [Odontologo 
+ID: 1
+Numero Matricula: 1432324
+Nombre: Juan
+Apellido: Machado, Odontologo 
+ID: 2
+Numero Matricula: 37632
+Nombre: Luisina
+Apellido: Martinucci, Odontologo 
+ID: 3
+Numero Matricula: 9283643
+Nombre: Luciana
+Apellido: Murga]
+[2023-08-10 00:45:23] [ INFO ] [OdontologoDaoH2:87] Listado de todos los odontologos : []
+[2023-08-10 00:49:09] [ INFO ] [OdontologoDaoH2:87] Listado de todos los odontologos : [Odontologo 
+ID: 1
+Numero Matricula: 123456
+Nombre: Juan
+Apellido: Machado, Odontologo 
+ID: 2
+Numero Matricula: 28374342
+Nombre: Luisina
+Apellido: Martinucci, Odontologo 
+ID: 3
+Numero Matricula: 8283474
+Nombre: Luciana
+Apellido: Murga]
+[2023-08-10 00:49:58] [ INFO ] [OdontologoDaoH2:87] Listado de todos los odontologos : [Odontologo 
+ID: 1
+Numero Matricula: 123456
+Nombre: Juan
+Apellido: Machado, Odontologo 
+ID: 2
+Numero Matricula: 28374342
+Nombre: Luisina
+Apellido: Martinucci, Odontologo 
+ID: 3
+Numero Matricula: 8283474
+Nombre: Luciana
+Apellido: Murga]
+[2023-08-10 00:51:02] [ INFO ] [OdontologoDaoH2:87] Listado de todos los odontologos : [Odontologo 
+ID: 1
+Numero Matricula: 123456
+Nombre: Juan
+Apellido: Machado
+, Odontologo 
+ID: 2
+Numero Matricula: 28374342
+Nombre: Luisina
+Apellido: Martinucci
+, Odontologo 
+ID: 3
+Numero Matricula: 8283474
+Nombre: Luciana
+Apellido: Murga
+]
+[2023-08-10 00:51:37] [ INFO ] [OdontologoDaoH2:87] Listado de todos los odontologos : [Odontologo 
+ID: 1
+Numero Matricula: 123456
+Nombre: Juan
+Apellido: Machado
+-----------------------, Odontologo 
+ID: 2
+Numero Matricula: 28374342
+Nombre: Luisina
+Apellido: Martinucci
+-----------------------, Odontologo 
+ID: 3
+Numero Matricula: 8283474
+Nombre: Luciana
+Apellido: Murga
+-----------------------]
+[2023-08-10 00:52:43] [ INFO ] [OdontologoDaoH2:87] Listado de todos los odontologos : [Odontologo 
+ID: 1
+Numero Matricula: 123456
+Nombre: Juan
+Apellido: Machado
+-----------------------, Odontologo 
+ID: 2
+Numero Matricula: 28374342
+Nombre: Luisina
+Apellido: Martinucci
+-----------------------, Odontologo 
+ID: 3
+Numero Matricula: 8283474
+Nombre: Luciana
+Apellido: Murga
+-----------------------]
+
+[2023-08-10 00:53:22] [ INFO ] [OdontologoDaoH2:87] Listado de todos los odontologos : 
+[Odontologo 
+ID: 1
+Numero Matricula: 123456
+Nombre: Juan
+Apellido: Machado
+-----------------------, Odontologo 
+ID: 2
+Numero Matricula: 28374342
+Nombre: Luisina
+Apellido: Martinucci
+-----------------------, Odontologo 
+ID: 3
+Numero Matricula: 8283474
+Nombre: Luciana
+Apellido: Murga
+-----------------------]
+
+[2023-08-10 00:54:41] [ INFO ] [OdontologoDaoH2:87] Listado de todos los odontologos : [ID: 1
+Numero Matricula: 123456
+Nombre: Juan
+Apellido: Machado
+-----------------------, ID: 2
+Numero Matricula: 28374342
+Nombre: Luisina
+Apellido: Martinucci
+-----------------------, ID: 3
+Numero Matricula: 8283474
+Nombre: Luciana
+Apellido: Murga
+-----------------------]
+[2023-08-10 00:55:20] [ INFO ] [OdontologoDaoH2:87] Listado de todos los odontologos : [
+ID: 1
+Numero Matricula: 123456
+Nombre: Juan
+Apellido: Machado
+-----------------------, 
+ID: 2
+Numero Matricula: 28374342
+Nombre: Luisina
+Apellido: Martinucci
+-----------------------, 
+ID: 3
+Numero Matricula: 8283474
+Nombre: Luciana
+Apellido: Murga
+-----------------------]
