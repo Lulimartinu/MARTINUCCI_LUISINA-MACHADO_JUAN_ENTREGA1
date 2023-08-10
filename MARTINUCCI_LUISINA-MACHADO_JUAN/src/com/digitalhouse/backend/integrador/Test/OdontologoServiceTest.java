@@ -18,6 +18,6 @@ class OdontologoServiceTest {
 
         List<Odontologo> odontologoTest = odontologoService.listarOdontologos();
         assertFalse(odontologoTest.isEmpty());
-        assertTrue(odontologoTest.size() >= 1);
+        assertTrue(odontologoTest.size() == 3);
     }
 }

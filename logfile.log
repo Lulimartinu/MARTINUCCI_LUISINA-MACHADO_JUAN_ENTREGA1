@@ -167,3 +167,19 @@ Numero Matricula: 8283474
 Nombre: Luciana
 Apellido: Murga
 -----------------------]
+[2023-08-10 11:09:55] [ INFO ] [OdontologoDaoH2:87] Listado de todos los odontologos : [
+ID: 1
+Numero Matricula: 123456
+Nombre: Juan
+Apellido: Machado
+-----------------------, 
+ID: 2
+Numero Matricula: 28374342
+Nombre: Luisina
+Apellido: Martinucci
+-----------------------, 
+ID: 3
+Numero Matricula: 8283474
+Nombre: Luciana
+Apellido: Murga
+-----------------------]
